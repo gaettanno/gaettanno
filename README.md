@@ -80,9 +80,7 @@
 ![Apple](https://img.shields.io/badge/-Apple-0a0e12?style=for-the-badge&logo=Apple&labelColor=000e27)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0a0e12?style=for-the-badge&logo=Python&labelColor=a2d9d4)&nbsp;
   
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46fff8&size=15&center=true&vCenter=true&width=168&lines=Tecnologias+favoritas)
-  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46fff8&size=15&center=true&vCenter=true&width=180&lines=Tecnologias+favoritas)
   <table>
   <tr>
     <td align="center" width="96">
