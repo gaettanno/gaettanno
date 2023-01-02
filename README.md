@@ -1,4 +1,4 @@
-<align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46fff8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Matheus+C.+Gaetano;+Moro+em+Vassouras+;Estudo+Engenharia+de+Software,+tenho+25+anos;Sejam+Bem-Vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46fff8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Matheus+C.+Gaetano;+Moro+em+Vassouras+;Estudo+Engenharia+de+Software,+tenho+25+anos;Sejam+Bem-Vindos!+:%29)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheus&show_icons=true&count_private=true&hide_border=true&title_color=46fff8&icon_color=46fff8&text_color=46fff8&bg_color=0d1117" alt="gaetano github stats" /> 
