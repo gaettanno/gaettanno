@@ -208,27 +208,6 @@
     <a href="https://discord.gg/gaettanno" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
 </p>
 
-<div align="center">
-<br><p align="centre">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46fff8&size=15&center=true&vCenter=true&width=180&lines=Contagem+de+visitantes) 
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gaettanno}/count.svg" /></p> 
-<br></div>
-
-<div align="center">
-  <img align="center" alt="MC Technology | YouTube" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.png" />
-  <img align="center" alt="@mctechnology17 | Twitter" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/twitter.png" />
-  <img align="center" alt="@mctechnology17 | Instagram" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/instagram.png" />
-  <img align="center" alt="MC Technology17 | Facebook" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/facebook.png" />
-  <img align="center" alt="@mctechnology17 | Reddit" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/reddit.png" />
-</div>
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46fff8&size=15&center=true&vCenter=true&width=180&lines=license) 
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
   
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
